@@ -6,7 +6,7 @@ An interactive **Power BI** analytics dashboard designed to monitor end-to-end p
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](Docs/dashboard_preview.jpeg)[cite: 1]
+![Dashboard Preview](Docs/Dashboard_preview.jpeg)[cite: 1]
 
 ---
 
